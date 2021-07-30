@@ -5,7 +5,7 @@ import AwsSigV4 as AwsSigV4
 
 #API Gateway endpoint
 
-url = "https://e8hza3dcpk.execute-api.us-east-1.amazonaws.com/latest/status"
+url = "https://azazazazaz.execute-api.us-east-1.amazonaws.com/latest/status"
 
 #Get AWS Temporary credentials
 #Use a profile name as needed
