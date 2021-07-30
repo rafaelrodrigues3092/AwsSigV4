@@ -18,7 +18,7 @@ SESSION_TOKEN = credentials.token
 
 #GET request
 
-#the query strings must be alphabetically ordered
+#the query string must be alphabetically ordered
 query_string = "bar=foo&foo=bar"
 
 get_headers = AwsSigV4.getRequestHeaders(
